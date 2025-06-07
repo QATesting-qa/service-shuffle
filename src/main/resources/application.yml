@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+log:
+  service:
+    url: http://localhost:8081/log
